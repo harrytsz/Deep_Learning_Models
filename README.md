@@ -7,7 +7,7 @@
 
 <div>
 <p align="left">
-	<em>Deep_Learning_Models summary the most basic models in the Deep Learning by harrytsz</em>
+	<em>Deep_Learning_Models -- A collection of various deep learning architectures, model and tips for Pytorch created by harrytsz</em>
 	<br>
 	<em>The main areas involved are:  machine learning, deep learning and other artificial intelligence.</em>
 </p>
