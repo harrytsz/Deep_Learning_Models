@@ -12,7 +12,7 @@
 	<em>The main areas involved are:  machine learning, deep learning and other artificial intelligence.</em>
 </p>
 <p align="center">
-	<img src="./Images/LOGO.JPG" alt="LOGO" width="250" height="300">
+	<img src="https://ae01.alicdn.com/kf/H1848258d4a254a548e6c54f86d4ac9f6R.jpg" alt="LOGO" width="250" height="300">
 	<p align="center">
 		<em>既然选择远方，便只顾风雨兼程.</em>
 		<p align="right">
